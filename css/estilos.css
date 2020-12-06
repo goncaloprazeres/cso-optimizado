@@ -1,0 +1,44 @@
+html,
+body {
+	margin: 0 auto;
+	padding: 0;
+	width: 90%;
+	font-family: 'PT Sans', sans-serif;
+	color: #ffffff;
+	background: #264653;
+}
+
+hr {
+	color: #ffffff;
+}
+
+h1, h2, h3, #idImagens{
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+span {
+	color: red;
+}
+
+#videos video {
+	width: 70%;
+	display: flex;
+	padding: 10px 0;
+	margin: 0 auto !important;
+}
+
+#imagens div {
+	display: flex;
+	justify-content: space-between;
+}
+
+#imagens div img {
+	width: 48%;
+	padding: 15px;
+}
+
+
